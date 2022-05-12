@@ -1,0 +1,12 @@
+h1 {
+  color: bisque;
+  background-color: brown;
+  text-align: center;
+}
+
+.app {
+  background-image: linear-gradient(to top, #423ada, #ab99cc, #bb9dcd, #caa1cc, #d8a6cb);
+  height: 100vh;
+
+
+}

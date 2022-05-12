@@ -1,0 +1,47 @@
+.soccerField {
+  border: solid 10px black;
+  width: 400px;
+  height: 600px;
+  margin: 10px;
+  background-color: green;
+  display: flex;
+  flex-direction: column;
+}
+
+.line {
+  display: flex;
+  justify-content: center;
+  height: 25%;
+  align-items: center;
+}
+
+.player {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
+
+.goalkeeper {
+  color: goldenrod;
+}
+
+.defender {
+  color: black;
+}
+
+.midfielder {
+  color: dodgerblue;
+}
+
+.forward {
+  color: crimson;
+}
+
+.zoom {
+  transform: scale(1.5);
+}

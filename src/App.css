@@ -1,0 +1,23 @@
+.title {
+  color: red;
+}
+
+.subTitle {
+  color: green;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.App{
+  background-image: linear-gradient(to top, #423ada, #ab99cc, #bb9dcd, #caa1cc, #d8a6cb);
+  height: 100vh;
+
+}
+
+.img{
+ 
+  margin-bottom: 15px;
+}
